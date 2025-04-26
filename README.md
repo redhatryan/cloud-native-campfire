@@ -1,6 +1,10 @@
-# Cloud Native Campfire
+<p align="center">
+  <img src="assets/logo/11.png" width="600" alt="Cloud-Native Campfire banner">
+</p>
 
-**Campfire Series** is a community-driven initiative created by Ryan Etten, CNCF Organizer for Wisconsin, donated for early iteration. **This project has no affiliation with the CNCF and is not endorsed**, though some branding may appear to position it for future growth.
+# Cloud-Native Campfire 🔥
+
+A community-run series of **Chats**, **Circles**, and **Connects** where we swap stories about all things cloud native. It is a community-driven initiative created by Ryan Etten, CNCF Organizer for Wisconsin, donated for early iteration. **This project has no affiliation with the CNCF and is not endorsed**, though some branding may appear to position it for future growth.
 
 ## 🏕️ What Is Campfire Series?
 
