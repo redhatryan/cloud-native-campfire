@@ -1,4 +1,4 @@
-# Campfire Toolkit
+# Cloud Native Campfire
 
 **Campfire Series** is a community-driven initiative created by Ryan Etten, CNCF Organizer for Wisconsin, donated for early iteration. **This project has no affiliation with the CNCF and is not endorsed**, though some branding may appear to position it for future growth.
 
