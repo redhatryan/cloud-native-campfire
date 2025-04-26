@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="campfire-toolkit/assets/logo/11.png" width="600" alt="Cloud Native Campfire Series">
+  <img src="campfire-toolkit/assets/concepts/1.png" width="600" alt="Cloud Native Campfire Series">
 </p>
 
 # Cloud-Native Campfire 🔥
