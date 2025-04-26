@@ -1,9 +1,11 @@
-# Code of Conduct
+# Contributor Code of Conduct
 
-All participants are expected to uphold the Contributor Covenant v2.1:
+Cloud-Native Campfire follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md).
 
-- Be respectful and inclusive.
-- Refrain from harassment and discrimination.
-- Maintain a positive and collaborative environment.
+### TL;DR
+Be **friendly**, **patient**, and **respectful**. Harassment, trolling, or exclusionary behavior will not be tolerated.
 
-See the full text at https://www.contributor-covenant.org/version/2/1/code_of_conduct/.
+### Maintainer Contacts
+* Ryan Etten – <retten@redhat.com>
+
+If you experience or witness unacceptable behavior, email **retten@redhat.com** or DM a maintainer on Slack. All reports are confidential.
