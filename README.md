@@ -27,10 +27,6 @@ A flexible framework for hosting interactive cloud-native community events:
 - Contribution workflow and governance
 - Sponsor engagement playbooks
 
-## 📂 Repository Structure
-
-See [directory tree](#directory-tree) for all files and their roles.
-
 ## 🚀 Getting Started
 
 1. Clone the repo: `git clone https://github.com/redhatryan/cloud-native-campfire.git`
