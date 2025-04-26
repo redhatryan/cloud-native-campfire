@@ -1,0 +1,16 @@
+# macOS files
+.DS_Store
+
+# Node modules
+node_modules/
+
+# Python files
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
+
+# Office temp files
+*.pptx~
